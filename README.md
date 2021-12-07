@@ -4,6 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/ermakov95)  
 
 ## I'm a beginner web-developer
+- 💪 I like coding
 - 🌱 Always learning new things
 - 🔭 Ready for discussions and making new projects
 
