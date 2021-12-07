@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Ivan
+### Hello there 👋 I'm Ivan
 
 
 ![Profile views](https://gpvc.arturio.dev/ermakov95)  
