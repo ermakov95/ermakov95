@@ -10,7 +10,7 @@
 - 👨‍💻 Skills: JavaScript, HTML, CSS and also:
 - cross-browser layout;
 - adaptive layout;
-- ability to write bem code;
+- ability to write bem code.
 - 👨‍💻Experience with SCSS, Pug, WebPack, Gulp, Git.
 
 
