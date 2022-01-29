@@ -7,7 +7,11 @@
 - 💪 I like coding
 - 🌱 Always learning new things
 - 🔭 Ready for discussions and making new projects
-- 👨‍💻 Skills: HTML/CSS/JS
+- 👨‍💻 Skills: JavaScript, HTML, CSS and also:
+- cross-browser layout;
+- adaptive layout;
+- ability to write BEM code;
+- 👨‍💻Experience with SCSS, Pug, WebPack, Gulp, Git.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermakov95)](https://github.com/anuraghazra/github-readme-stats)
