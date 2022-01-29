@@ -7,7 +7,7 @@
 - 💪 I like coding
 - 🌱 Always learning new things
 - 🔭 Ready for discussions and making new projects
-- 👨‍💻 Skills: HTML/CSS/JS/Python
+- 👨‍💻 Skills: HTML/CSS/JS
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermakov95)](https://github.com/anuraghazra/github-readme-stats)
