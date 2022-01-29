@@ -7,10 +7,8 @@
 - 💪 I like coding
 - 🌱 Always learning new things
 - 🔭 Ready for discussions and making new projects
-- 👨‍💻 Skills: JavaScript, HTML, CSS and also:
-- cross-browser layout;
-- adaptive layout;
-- ability to write bem code.
+- 👨‍💻 Skills: JavaScript, HTML, CSS and including:
+- Cross-browser compatibility, adaptive and rubber layout, BEM methodology.
 - 👨‍💻Experience with SCSS, Pug, WebPack, Gulp, Git.
 
 
