@@ -8,7 +8,7 @@
 - 🌱 Always learning new things
 - 🔭 Ready for discussions and making new projects
 - 👨‍💻 Skills: JavaScript, HTML, CSS and including:
-- Cross-browser compatibility, adaptive and rubber layout, BEM methodology.
+- Cross-browser compatibility, adaptive/responsive layout, BEM methodology.
 - 👨‍💻Experience with SCSS, Pug, WebPack, Gulp, Git.
 
 
